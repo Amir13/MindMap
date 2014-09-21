@@ -1,0 +1,17 @@
+{
+  "title": "Test",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "parent",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "sibling",
+          "id": 3
+        }
+      }
+    }
+  }
+}
